@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/opensea",
   "title": "Opensea",
   "description": "OpenSea MCP — NFT marketplace data (v2 API)",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/opensea",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-opensea",
