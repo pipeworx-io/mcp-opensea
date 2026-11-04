@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-opensea",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "OpenSea MCP — NFT marketplace data (v2 API)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "opensea",
     "gatewaySlug": "opensea",
-    "sourceHash": "v1-158939f76054d46e924721d06f2baaa6dfba23b93802d3e579a9ff8f8e240ca6",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-f2b7c029fbd7021c71d86357ac66c586f55b8bbb34da9c9f4c2fda919cea4730",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
